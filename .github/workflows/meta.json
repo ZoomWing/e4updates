@@ -2,6 +2,14 @@
   "schemaVersion": 1,
   "hotfixesFormat": null,
   "versions": [
- 
+     {
+        "id": "0.9",
+        "releasedAt": 1703894400000,
+        "promotions": {
+            "downloads": {
+                "generic": "https://mega.nz/file/hAUHwLBA#mUUthzO1_Bd3aGxkEkjdxhGPAiP1WXjNGhx6Ie8fIGs"
+            }
+        }
+    }
   ]
 }
