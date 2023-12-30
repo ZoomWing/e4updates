@@ -1,2 +1,0 @@
-[ESMEGMALAND 4]
-  - Creación de la infraestructura de actualización del modpack.
