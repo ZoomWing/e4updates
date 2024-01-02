@@ -19,6 +19,15 @@
                 "generic": "https://mega.nz/file/BJsjjBIZ#EIjCDob6TecLA3O6KVKLX6FTetb1QNh8w5q2NsPR3pU"
             }
         }
+    },
+    {
+        "id": "0.92",
+        "releasedAt": 1704240000000,
+        "promotions": {
+            "downloads": {
+                "generic": "none"
+            }
+        }
     }
   ]
 }
