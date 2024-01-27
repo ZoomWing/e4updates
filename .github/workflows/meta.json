@@ -28,6 +28,15 @@
                 "generic": "none"
             }
         }
+    },
+    {
+        "id": "1.0",
+        "releasedAt": 1706383744019,
+        "promotions": {
+            "downloads": {
+                "generic": "none"
+            }
+        }
     }
   ]
 }
