@@ -1,0 +1,3 @@
+[ESMEGMALAND 4]
+  - Se eliminó el mod "Carry On" por incompatibilidad con CustomNPCs.
+  - Versión final del cliente de Esmegmaland IV 🥳
