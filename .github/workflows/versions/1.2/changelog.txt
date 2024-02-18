@@ -4,4 +4,9 @@
   - Se añadió el mod Audio Extension for Fancy Menu
   - Se añadió el mod Dark Utilities
   - Se añadió el mod Cyclic
+  - Se añadió el mod Not Enough Animations
+  - Se añadió el mod Farsight
+  - Se añadió el mod Advancement Plaques
+  - Se añadió el mod Chat Heads
+  - Se añadió el mod Spice of Life: Carrot Edition
   - Se implementó el script del límite de tiempo.
