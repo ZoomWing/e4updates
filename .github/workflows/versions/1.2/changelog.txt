@@ -9,4 +9,5 @@
   - Se añadió el mod Advancement Plaques
   - Se añadió el mod Chat Heads
   - Se añadió el mod Spice of Life: Carrot Edition
+  - Se añadió el mod Better Jukebox
   - Se implementó el script del límite de tiempo.
