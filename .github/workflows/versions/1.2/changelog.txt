@@ -11,4 +11,5 @@
   - Se añadió el mod Spice of Life: Carrot Edition
   - Se añadió el mod Better Jukebox
   - Se añadió el mod Iam Music Player
+  - Se añadió la IP del servidor de pruebas (test.nuncapara.site:25565)
   - Se implementó el script del límite de tiempo.
